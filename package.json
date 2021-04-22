@@ -1,5 +1,5 @@
 {
-  "name": "Bookmarklet",
+  "name": "bookmarklet",
   "version": "1.0.0",
   "description": "Bookmarklet for extracting image source and alt",
   "main": "index.js",
