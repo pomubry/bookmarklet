@@ -1,0 +1,23 @@
+{
+  "name": "Bookmarklet",
+  "version": "1.0.0",
+  "description": "Bookmarklet for extracting image source and alt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pomubry/bookmarklet.git"
+  },
+  "keywords": [],
+  "author": "pomubry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pomubry/bookmarklet/issues"
+  },
+  "homepage": "https://github.com/pomubry/bookmarklet",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
